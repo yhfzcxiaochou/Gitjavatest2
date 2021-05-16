@@ -6,4 +6,7 @@ public class Gitjava {
         System.out.printf("111");
     }
 
+    public void test(){
+        int  i=0;
+    }
 }
